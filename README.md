@@ -13,3 +13,5 @@ Notes:
 4. `git push -u origin master`
 
 If another person changes code, pull first. `git pull`
+
+TEST: I made this change on my machine.
